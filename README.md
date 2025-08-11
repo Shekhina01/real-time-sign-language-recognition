@@ -22,6 +22,7 @@ git clone https://github.com/Shekhina01/real-time-sign-language-recognition.git
 cd real-time-sign-language-recognition
 pip install -r requirements.txt
 
+## Code
 # Speech → Sign
 python src/audio_to_sign.py
 
