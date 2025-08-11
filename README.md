@@ -18,6 +18,6 @@ It also supports reverse translation — converting speech into corresponding si
 
 ## Installation
 ```bash
-git clone https://github.com/<yourusername>/real-time-sign-language-recognition.git
+git clone https://github.com/Shekhina01/real-time-sign-language-recognition.git
 cd real-time-sign-language-recognition
 pip install -r requirements.txt
