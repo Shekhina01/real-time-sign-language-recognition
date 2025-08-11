@@ -1,0 +1,10 @@
+tensorflow==2.8.0
+keras==2.8.0
+opencv-python
+numpy
+matplotlib
+Pillow
+pyttsx3
+SpeechRecognition
+pyaudio
+beautifulsoup4
